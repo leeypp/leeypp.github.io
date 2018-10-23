@@ -1,6 +1,6 @@
 # Site settings
-title: ROSS Blog
-SEOTitle: ross的博客 | ROSS Blog
+title: Ross Blog
+SEOTitle: ross的博客 | Ross Blog
 header-img: img/post-bg-universe.jpg
 email: leeypp@foxmail.com
 description: "I love three things in this world.Sun, moon and you. Sun for morning, moon for night, and you forever."
@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:     leeypp
 github_username:    leeypp
 facebook_username:  leeypp
-jianshu_username:   leeypp
+jianshu_username:   b7040db32a60
 #twitter_username:   qiubaiying
 
 
