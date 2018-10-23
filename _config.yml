@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "OSCHINA"
+        title: "OSCHINA",
         href: "https://my.oschina.net/leeypp1"
     },{
         title: "简书·ross",
